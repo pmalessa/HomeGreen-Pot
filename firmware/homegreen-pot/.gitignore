@@ -1,0 +1,12 @@
+# editors
+*.swp
+*~
+/.vscode
+
+# build
+/build*/
+/zephyr
+/tools
+/modules
+/bootloader
+/.west
